@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elm-toggle/favicon.ico"
   },
   {
-    "revision": "12da5ffa8d46ce3e5c395db8596d3075",
+    "revision": "dad8da5a17f13f1beda033a5ff2fa8e0",
     "url": "/elm-toggle/index.html"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elm-toggle/manifest.json"
   },
   {
-    "revision": "7e689deabd0d1aba4ebb",
+    "revision": "f90884b11dc62518b011",
     "url": "/elm-toggle/static/css/main.0af5c45f.chunk.css"
   },
   {
-    "revision": "7e689deabd0d1aba4ebb",
-    "url": "/elm-toggle/static/js/main.7e689dea.chunk.js"
+    "revision": "f90884b11dc62518b011",
+    "url": "/elm-toggle/static/js/main.f90884b1.chunk.js"
   },
   {
     "revision": "29d9a0d805fcbe2b4973",

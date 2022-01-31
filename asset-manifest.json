@@ -1,7 +1,7 @@
 {
   "main.css": "/elm-toggle/static/css/main.0af5c45f.chunk.css",
-  "main.js": "/elm-toggle/static/js/main.7e689dea.chunk.js",
-  "main.js.map": "/elm-toggle/static/js/main.7e689dea.chunk.js.map",
+  "main.js": "/elm-toggle/static/js/main.f90884b1.chunk.js",
+  "main.js.map": "/elm-toggle/static/js/main.f90884b1.chunk.js.map",
   "runtime~main.js": "/elm-toggle/static/js/runtime~main.29d9a0d8.js",
   "runtime~main.js.map": "/elm-toggle/static/js/runtime~main.29d9a0d8.js.map",
   "vendors~main.js": "/elm-toggle/static/js/vendors~main.354e092f.chunk.js",
@@ -12,5 +12,5 @@
   "index.html": "/elm-toggle/index.html",
   "logo.svg": "/elm-toggle/logo.svg",
   "manifest.json": "/elm-toggle/manifest.json",
-  "precache-manifest.7daad3354b77c8542617a094b342e029.js": "/elm-toggle/precache-manifest.7daad3354b77c8542617a094b342e029.js"
+  "precache-manifest.21f0fe838cd5657961eb927535bcf3ed.js": "/elm-toggle/precache-manifest.21f0fe838cd5657961eb927535bcf3ed.js"
 }
