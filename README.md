@@ -8,6 +8,8 @@ A small example to illustrate state, actions, messages and visualization in Elm.
 Try out the app here
 https://finnpedersenkazes.github.io/elm-toggle/
 
+The code in the file `src/Main.elm`
+
 
 # Create Elm App
 
